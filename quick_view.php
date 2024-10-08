@@ -36,7 +36,7 @@ include 'components/wishlist_cart.php';
 
 <section class="quick-view">
 
-   <h1 class="heading">Quick view1</h1>
+   <h1 class="heading">Quick view</h1>
 
    <?php
      $pid = $_GET['pid'];
